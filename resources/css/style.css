@@ -1,0 +1,49 @@
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 22px;
+  color: seashell;
+  background-color: black;
+  opacity: 0.9;
+  text-align: center;
+}
+
+#mission {
+  height: 700px;
+  width: 1200px;
+  background-image: url('../images/img-mission-background.jpg');
+  align-content: center;
+}
+
+.pics {
+  height: 200px;
+  width: 300px;
+}
+
+#location {
+  height: 500px;
+  width: 1200px;
+  background-image: url('../images/img-locations-background.jpg');
+}
+
+.downtown {
+  background-color: black;
+  width: 300px;
+  opacity: 1;
+}
+
+.east {
+  background-color: black;
+  width: 300px;
+  opacity: 1;
+}
+
+.oakdale {
+  background-color: black;
+  width: 300px;
+  opacity: 1;
+}
+
+.copyright {
+  text-align: left;
+  padding: 20px;
+}
